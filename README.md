@@ -1,15 +1,25 @@
 # Repricing Modeling
+[Purpose]
+
 Analyze retailing data to explore profitable / negative margin items
+
 Generate cost model to accurate total costs
  
-Noted:
+[Noted]
+
 Retailing data processed here is for research use
+
 Retailing data excludes personal information
 
-Flow:
-Preprocess retailing data
-Analyze financial data by different aspects:
+[Flow]
+
+1.Preprocess retailing data
+
+2.Analyze financial data by different aspects:
+
     * by supplier
+    
     * by item
-Generate a model for cost prediction
+    
+3.Generate a model for cost prediction
 
